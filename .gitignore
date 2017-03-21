@@ -1,7 +1,15 @@
+package.json
+debug.log
+_config.yml
+.npmignore
+themes/
+source/
+scaffolds/
+.git
+.deploy_git
 .DS_Store
 Thumbs.db
 db.json
 *.log
 node_modules/
-public/
 .deploy*/
